@@ -1,9 +1,33 @@
-body{
-
-    background-color: blueviolet;
-}
-
 p{
     background-color: blueviolet;
+    color: rgb(255, 0, 0);
+}
+#p1{
+    background-color: blueviolet;
+    text-align: center;
+    color:rgb(255, 179, 80);
+}
+.c1 {
+    background-color: aquamarine;
+    text-align:center;
+    color:rgb(12, 7, 1);
+}
+div {
+    width: 100px;
+    height: 200px;
+    background-color: lawngreen;
+    opacity: 0.9;
+}
+
+#d1 {
+    border-style:dotted;
+    width: 600px;
+    border-color: coral;
+    border-radius: 30%;
+    padding-top: 60px;
+    padding-left: 600px;
+    margin-top: 400px;
+    
+    
 
 }
