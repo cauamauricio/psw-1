@@ -19,6 +19,15 @@ div {
     opacity: 0.9;
 }
 
+.dc1 {
+
+    width: 100px;
+    height: 200px;
+    background-color: rgb(198, 79, 39);
+    opacity: 0.8;
+
+}
+
 #d1 {
     border-style:dotted;
     width: 600px;
